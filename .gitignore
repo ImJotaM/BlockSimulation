@@ -1,0 +1,11 @@
+*.vcxproj
+*.sln
+
+\bin
+\bin-int
+
+*.user
+.vs
+
+# Unnacept all PNG files, except those which are in resource directory
+*.png
